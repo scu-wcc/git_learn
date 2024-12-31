@@ -1,0 +1,9 @@
+1.需要在本地电脑上生成公钥            
+2.将公钥添加到线上仓库中
+3. git clone ssh链接  初始化本地仓库
+4. git add/commit ""
+5. git push/pull
+
+使用ssh的好处是：在添加公钥的电脑上，该电脑的所有仓库都可以直接与远程仓库push/pull。
+
+冲突：当多个branch对同一个文件进行了修改，无法同时merge这些分支，需要一个branch，，一个branch解决conflict，并且只有解决merge conflict后才能执行其他操作。
