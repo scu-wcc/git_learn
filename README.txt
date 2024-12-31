@@ -9,8 +9,8 @@ hello world
 
 第二天同事小春写的
 
-<<<<<<< HEAD
 在main分支进行修改
-=======
+
 进入dev1对readme.txt文件进行修改
->>>>>>> dev1
+
+在dev2分支进行修改
